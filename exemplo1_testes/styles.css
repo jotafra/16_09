@@ -1,0 +1,20 @@
+/* Seletor universal */
+*{
+    background-color:aquamarine;
+    color:blue
+}
+/* Estilização por nome de */
+h1{
+    background-color:blueviolet;
+    color:black;
+}
+/* Estilização por classe */
+.titulo{
+    background-color: bisque;
+    color:aqua;
+}
+/* Estilização por seletor de id */
+#destaque{
+    background-color: blue;
+    color: aliceblue;
+}
